@@ -1,0 +1,7 @@
+
+input m=10 and n
+       n % 2 ==1
+    write "n+m"
+ else 
+    write "m"
+   
